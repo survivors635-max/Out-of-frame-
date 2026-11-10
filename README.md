@@ -5,16 +5,23 @@ name of Project: Out-of-picture
 Team:
 
 Lubna Ebrhim Hamed Ebrhim — Team Leader
-
-Amira Elsayed Saad Elgahel 
+(Project Planning & Management,Team Coordination,Creative Direction,AI Production Supervision,Quality Control
+,Documentation & GitHub Management,Final Delivery)
 
 Tasnim Abdulkader Mohammed Hassan
+(story,senario)
+
+Amira Elsayed Saad Elgahel 
+(Character Design, Environment Design )
 
 Mona Mahmoud Mohamed Elsebaey
+(Storyboarding, AI Image Generation )
 
 Aya Esmail ElSherbiny Ahmed
+(AI Video Generation, Video Editing )
 
 Aya Mohamed Mahmoud Ibrahem 
+(Sound Design, Final Film Production )
 
 Project Overview:
 
