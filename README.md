@@ -2,7 +2,9 @@
 
 name of Project: Out-of-picture
 
-Team:
+name of team: survivors 
+
+Team members:
 
 Lubna Ebrhim Hamed Ebrhim — Team Leader
 (Project Planning & Management,Team Coordination,Creative Direction,AI Production Supervision,Quality Control
