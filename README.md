@@ -1,6 +1,6 @@
-# Out-of-picture
+# Out-of-frame
 
-name of Project: Out-of-picture
+name of Project: Out-of-frame
 
 name of team: survivors 
 
