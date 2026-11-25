@@ -14,7 +14,7 @@ Tasnim Abdulkader Mohammed Hassan
 (story,senario)
 
 Amira Elsayed Saad Elgahel 
-(Character Design, Environment Design )
+(Ai filmmaker & automation)
 
 Mona Mahmoud Mohamed Elsebaey
 (Storyboarding, AI Image Generation )
